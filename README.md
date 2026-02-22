@@ -1,4 +1,4 @@
-# Welcome! <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/globe.gif" width="30">
+# Welcome! <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/globe.gif" width="30" align="center">
 
 ---
 
